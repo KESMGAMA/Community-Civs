@@ -754,5 +754,39 @@
 		"uniques": ["[+1 Happiness] [in all cities] <with [1] to [2] neighboring [Forest] tiles>","[+2 Happiness] [in all cities] <with [3] to [6] neighboring [Forest] tiles>",
 			"[+1 Production] from [Forest] tiles [in all cities] <with [1] to [6] neighboring [City center] tiles>"],
 		"cities": ["Everwood","Verdant Grove","Whispering Pines","Mosswood","Fernhaven","Willowshade","Oakheart","Sunleaf","Briarthorn","Wildroot"]
+	},
+
+	//KESM GAMA of KESEM
+	{
+		"name": "KESEM",
+		"leaderName": "KESM GAMA",
+		"adjective": ["Kesemian"],
+		"outerColor": [0, 100, 2],
+		"innerColor": [1, 58, 147],
+
+		"startBias": ["Hill", "Coast"],
+		"preferredVictoryType": "Scientific",
+		//"favoredReligion": "",
+	  
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+ 
+		"introduction": "",
+		"declaringWar": "",
+     		"attacked": "",
+		"afterPeace": "",
+		"defeated": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+		
+		"uniqueName": "Uplifting Arepas",
+		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>",
+			"[-50]% maintenance on road & railroads <with [Arepa]>",
+			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>"],
+
+		"cities": ["Kesemau","Kesemac","Kesmilsh","Milshem","Tepemilsh"]
 	}
 ]
