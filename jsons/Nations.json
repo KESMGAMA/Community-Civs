@@ -782,9 +782,8 @@
 
 		"tradeRequest": "",
 		
-		"uniqueName": "Uplifting Arepas",
-		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles> <with [Arepa]>",
-			"[-50]% maintenance on road & railroads <with [Arepa]>",
+		"uniqueName": "Between Scientists and Sorcerers",
+		"uniques": ["[+1] Movement <for [Land] units> <in [Hill] tiles>",
 			"[+1 Production] from [Great Improvement] tiles [in all cities] <within [1] tiles of a [Arepa House]>"],
 
 		"cities": ["Kesemau","Kesemac","Kesmilsh","Milshem","Tepemilsh"]
